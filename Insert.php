@@ -11,10 +11,10 @@
         error_reporting(E_ALL);
 
         $host     = 'localhost';
-        $db       = 'testphp';
-        $user     = 'root';
-        $password = '';
-        // $port     = 2083;
+        $db       = 'net24jcomuth_testphp';
+        $user     = 'net24jcomuth_net24jcomuth';
+        $password = '_8?&x!danfj3';
+        $port     = 2083;
         $charset  = 'utf8mb4';
           
         mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
